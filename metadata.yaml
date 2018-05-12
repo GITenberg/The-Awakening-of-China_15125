@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '5867'
     url: http://www.gutenberg.org/2009/agents/5867
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15125#The-Awakening-of-China
 gutenberg_issued: '2005-02-21'
 gutenberg_type: Text
 identifiers:
